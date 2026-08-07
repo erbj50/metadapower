@@ -1,0 +1,7 @@
+ativa 
+
+.\venv\Scripts\activate
+
+executar 
+
+python app.py
